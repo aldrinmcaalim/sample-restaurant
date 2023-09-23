@@ -1,8 +1,20 @@
-# React + Vite
+# Sample Restaurant Plan
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Components to create:
 
-Currently, two official plugins are available:
+- [x] Home
+- [ ] Authentication
+- [ ] Full Menu
+- [ ] Menu Item
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Dependencies to Install:
+
+- [x] React Icons
+- [ ] React Router
+- [ ] Styled Components
+
+## Miscellaneous Plans:
+
+- [x] Create readme
+- [ ] Connect to firebase authentication
+- [ ] Connect to firestore
