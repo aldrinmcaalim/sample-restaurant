@@ -1,7 +1,9 @@
+import Home from "./components/home/Home.component";
+
 const App = () => {
   return (
     <>
-      <h1>Restaurant</h1>
+      <Home />
     </>
   );
 };
